@@ -13,6 +13,7 @@ function argument (){
 }
 
 function parite() {
+    
     let nombre = process.argv[2];
 
     if(nombre%2 == 0){
