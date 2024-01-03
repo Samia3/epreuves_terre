@@ -1,3 +1,5 @@
+// Exercice récupérer le nom du programme
+
 // process.argv est un tableau (array) en Node.js qui contient les arguments de la ligne de commande. Plus précisément, il contient les éléments suivants :
 
 // process.argv[0]: Chemin vers l'exécutable Node.js.
