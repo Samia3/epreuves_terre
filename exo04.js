@@ -1,4 +1,4 @@
-// Exercice pour vérifier si un entier est pai ou impair
+// Exercice pour vérifier si un entier est pair ou impair
 
 function argument (){
     // Récupère les arguments à partir du deuxième index
