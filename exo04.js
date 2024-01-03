@@ -1,3 +1,5 @@
+// Exercice pour vérifier si un entier est pai ou impair
+
 function argument (){
     // Récupère les arguments à partir du deuxième index
     const arguments = process.argv.slice(2);
