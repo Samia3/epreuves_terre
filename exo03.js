@@ -1,3 +1,5 @@
+// Exercice afficher l'alphabet à partir d'une lettre donnée en argument
+
 function argument (){
     // Récupère les arguments à partir du deuxième index
     const arguments = process.argv.slice(2);
