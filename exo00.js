@@ -1,3 +1,5 @@
+// Exercice afficher l'alphabet
+
 // Variable pour stocker l'alphabet
 let alphabet = '';
 
