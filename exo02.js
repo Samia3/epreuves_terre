@@ -1,3 +1,5 @@
+// Exercice afficher les arguments 
+
 // Récupère tous les arguments du fichier en cours d'exécution
 const arguments = process.argv;
 
