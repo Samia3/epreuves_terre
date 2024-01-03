@@ -1,3 +1,5 @@
+// Exercice qui affiche le résultat d'une puissance
+
 function argument(){
     // Récupère les arguments à partir du deuxième index
     const arguments = process.argv.slice(2);
