@@ -9,6 +9,8 @@ function argument() {
     
     if(arguments.length != 3 || !nombreRegExp.test(arguments[0]) || !nombreRegExp.test(arguments[1]) || !nombreRegExp.test(arguments[2])){
         console.log("Veuillez mettre trois entier en argument svp.");
+    }else if(Number(arguments[0]) === Number(arguments[1] || Number(arguments[0]) === Number(arguments[2]) || Number(arguments[1]) === Number(arguments[2]))){
+        console.log("Il faut mettre des entiers différents.");
     }else {
         suisse();
     }
